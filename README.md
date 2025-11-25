@@ -20,6 +20,13 @@ Sistem ini mencakup pengelolaan administrasi kampung, data kampung, dan penyedia
 * Menjadi referensi bagi kampung lain yang ingin membangun sistem informasi serupa.
 * Menyediakan akses informasi kampung secara transparan dan mudah dipahami masyarakat.
 
+## Tech Stack
+
+- **Monorepo:** Turborepo
+- **Backend:** Golang + PostgreSQL
+- **Frontend:** Svelte + SvelteKit + Tailwind CSS
+- **Infrastructure:** Docker, Traefik, Cloudflare R2
+
 ## Roadmap
 
 Roadmap berikut bersifat awal dan akan berkembang seiring kebutuhan:
