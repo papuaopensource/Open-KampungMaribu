@@ -9,6 +9,8 @@
 
 **Open-KampungMaribu** adalah Sistem Informasi Kampung yang dikembangkan untuk Kampung Maribu sebagai contoh awal penerapan sistem informasi terpadu di tingkat kampung. Sistem ini dirancang agar dapat dikembangkan secara berkelanjutan dan mudah diadaptasi oleh kampung-kampung lain yang membutuhkan.
 
+Kampung Maribu adalah sebuah kampung yang secara administratif berada di Distrik Sentani Barat (Moy), Kabupaten Jayapura, Provinsi Papua. Pengembangan sistem ini diharapkan dapat membantu kampung dalam menyajikan informasi, meningkatkan tata kelola administrasi, serta memperkuat layanan publik berbasis digital.
+
 Sistem ini mencakup pengelolaan administrasi kampung, data kampung, dan penyediaan halaman informasi publik. Walaupun dimulai dari bentuk sederhana, proyek ini tidak berhenti sebagai prototipe, tetapi akan terus berkembang mengikuti kebutuhan nyata.
 
 ## Tujuan Proyek
